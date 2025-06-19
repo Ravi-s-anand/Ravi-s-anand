@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ravi-s-anand
-- 👀 I’m interested in python,snowflake,database
+- 👀 I’m interested in python,snowflake,database,machine learning
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on data engineering
 - 📫 How to reach me ...
